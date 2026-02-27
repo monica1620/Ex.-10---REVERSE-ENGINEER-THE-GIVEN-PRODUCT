@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -35,8 +35,8 @@
 ### Output:
 
 
-### Name:
-### Register Number:
+### Name: MONICA R
+### Register Number: 212225240089
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
